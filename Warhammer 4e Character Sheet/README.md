@@ -81,6 +81,25 @@ Note conditions are not intended for out of combat situations, GM simply makes t
  
 ///// ============ Change Log ============ /////  
 
+- NOTICE - March 28th 2025
+
+Unfortunatley roll20 have decided to delist this sheet due to disagreeing with much of the content included they had been approving for years, talent intergation etc. So in short i will no long be publish a comunity sheet for roll20. But the sheet will contiune as a private endevor and I will update this repo occasionally. Anybody that wishes can still use them wit hthe Custom sheet feature on roll20, download the 3 files (Warhammer 4e Character Sheet.html, translation.json, Warhammer 4e Character Sheet.css) and cut & paste the the data inside to the correct tabs in the Custom sheet configuration section on your roll20 game (see https://wiki.roll20.net/Using_Custom_Character_Sheets). All sheets at the time of delisting will be running version v1.76. Sorry.
+
+
+Apr 11nd 2025 v1.76b
+
+- Add back Weapon creator system in the weapons tab. Why not.
+
+
+Mar 28nd 2025 v1.76a
+
+- Fix distracting text showing melee attacks when it should not
+- Fix Impact bonus from x2 size not working after using melee reset button until VsSize was changed again
+- Add Skink as Player Race, from the Lustria book
+- Dwarf & HE talents work correctly with Auto XP calc
+- More Traits added
+
+  
 Mar 22nd 2025 v1.76
 
 - New High Elf Player's Guide support, including Yenlui and Talents for HE career's.
